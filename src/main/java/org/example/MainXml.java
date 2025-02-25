@@ -1,5 +1,6 @@
-package org.example.Metier;
+package org.example;
 
+import org.example.Metier.IMetier;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
