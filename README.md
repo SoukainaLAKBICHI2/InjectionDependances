@@ -57,13 +57,13 @@ git log --oneline
 ```
 ## Execution
 ### Instanciation Statique
-(5A.png)
+![Instanciation Statique](5A.png)
 ### Instanciation Dynamique
-(5b.png)
+![Dynamique](5b.png)
 ### En utilisant Spring (Configuration XML)
-(5c.png)
+![XML](5C.png)
 ### En utilisant Spring (Annotations)
-(5d.png)
+![Annotations](5d.png)
 
 ## Liens Utiles
 - [Documentation Spring](https://spring.io/projects/spring-framework)
